@@ -1,0 +1,4 @@
+character | special | literal
+    \     | escape character | \ or part of unprintable character
+    $     | expansion        | $
+    `     | expansion(command)        | ` 
